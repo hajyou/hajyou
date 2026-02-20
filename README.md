@@ -64,7 +64,7 @@ Actively developing practical cybersecurity skills through CTF platforms and sec
 <h3 align="center">Frontend</h3>
 <p align="center">
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin: 15px;">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin: 15px 25px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
 </a>
 
