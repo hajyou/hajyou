@@ -30,7 +30,7 @@ Developing practical cybersecurity skills through CTF platforms and security cha
 
 <p align="center">
 <a href="https://www.root-me.org/JoeStone" target="_blank" style="margin: 0 25px;">
-<img src="https://www.root-me.org/IMG/siteon0.png" alt="root-me" width="70" height="70"/>
+<img src="IMG/logo/siteon0.svg?1637496509" alt="root-me" width="70" height="70"/>
 </a>
 </p>
 
@@ -65,11 +65,11 @@ Root-Me Profile — (pseudo) <b>JoeStone</b>
 <h3 align="center">Frontend</h3>
 <p align="center">
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin: 0 20px;">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin: 0 80px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
 </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin: 0 20px;">
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin: 0 80px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
 </a>
 
