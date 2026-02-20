@@ -21,13 +21,10 @@
 Actively developing practical cybersecurity skills through CTF platforms and security challenges.
 </p>
 
-<p>
-<b>Root-Me:</b> <a href="https://www.root-me.org/JoeStone" target="_blank">JoeStone</a>
-</p>
-
 <p align="left">
-<a href="https://www.root-me.org/JoeStone" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/rootme/00FF00" alt="root-me" width="36" height="36"/>
+<a href="https://www.root-me.org/JoeStone" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
+<img src="https://cdn.simpleicons.org/rootme/00FF00" alt="root-me" width="32" height="32"/>
+<b>Root-Me: (pseudo) JoeStone</b>
 </a>
 </p>
 
