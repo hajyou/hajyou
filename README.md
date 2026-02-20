@@ -1,46 +1,49 @@
 <h1 align="center">Hi 👋, I'm HAJRI Youssef</h1>
 <h3 align="center">Computer Science Student passionate about Systems, Networks, Electronics and Cybersecurity</h3>
 
-- 🔭 I’m currently working on [Projet Web VISION (Full-Stack Application)](https://github.com/hajyou/Projet-Web-VISION)
+- 🔭 I’m currently working on <a href="https://github.com/hajyou/Projet-Web-VISION" target="_blank">Projet Web VISION (Full-Stack Application)</a>
 
-- 🌱 I’m currently learning **Computer Networks, Backend Architecture (PHP/MySQL), Secure Coding Practices, Linux Server Deployment, Cybersecurity Fundamentals**
+- 🌱 I’m currently learning <b>Computer Networks, Backend Architecture (PHP/MySQL), Secure Coding Practices, Linux Server Deployment, Cybersecurity Fundamentals</b>
 
-- 👨‍💻 All of my projects are available at [https://github.com/hajyou](https://github.com/hajyou)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/hajyou" target="_blank">https://github.com/hajyou</a>
 
-- 💬 Ask me about **C programming, OCaml, Networks Fundamentals, Linux**
+- 💬 Ask me about <b>C programming, OCaml, Networks Fundamentals, Linux</b>
 
-- 📫 How to reach me **youssefhajri83@gmail.com**
+- 📫 How to reach me <b>youssefhajri83@gmail.com</b>
 
-- ⚡ Fun fact **I can play "Happy Birthday" on the guitar — a surprisingly practical skill.**
+- ⚡ Fun fact <b>I can play "Happy Birthday" on the guitar — a surprisingly practical skill.</b>
 
+<hr/>
 
+<h2>🛡️ Cybersecurity</h2>
 
-<h3 align="center">Cybersecurity 🛡️</h3>
-
-<p align="center">
-Developing practical cybersecurity skills through CTF platforms and security challenges.
+<p>
+Actively developing practical cybersecurity skills through CTF platforms and security challenges.
 </p>
 
-<p align="center">
-Root-Me Profile — (pseudo) <b>JoeStone</b>
+<p>
+<b>Root-Me:</b> <a href="https://www.root-me.org/JoeStone" target="_blank">JoeStone</a>
 </p>
 
-
-<p align="center">
-<a href="https://www.root-me.org/JoeStone" target="_blank" style="margin: 0 25px;">
-<img src="https://cdn.simpleicons.org/rootme/00FF00" width="65" height="65"/>
+<p align="left">
+<a href="https://www.root-me.org/JoeStone" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/rootme/00FF00" alt="root-me" width="36" height="36"/>
 </a>
 </p>
 
-<h3 align="center">Professional Network 🌐</h3>
+<hr/>
 
-<p align="center">
-<a href="https://linkedin.com/in/youssefhajri" target="_blank" style="margin: 0 25px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"/>
+<h2>🌐 Connect With Me</h2>
+
+<p align="left">
+<a href="https://linkedin.com/in/youssefhajri" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
 </a>
 </p>
 
-<h1 align="center">Languages and Tools 🛠</h1>
+<hr/>
+
+<h2 align="center">Languages and Tools 🛠</h2>
 
 <h3 align="center">Basics</h3>
 <p align="center">
@@ -63,7 +66,6 @@ Root-Me Profile — (pseudo) <b>JoeStone</b>
 
 </p>
 
-
 <h3 align="center">Frontend</h3>
 <p align="center">
 
@@ -77,7 +79,6 @@ Root-Me Profile — (pseudo) <b>JoeStone</b>
 
 </p>
 
-
 <h3 align="center">Backend & Databases</h3>
 <p align="center">
 
@@ -90,7 +91,6 @@ Root-Me Profile — (pseudo) <b>JoeStone</b>
 </a>
 
 </p>
-
 
 <h3 align="center">Systems & Low-Level</h3>
 <p align="center">
@@ -108,7 +108,6 @@ Root-Me Profile — (pseudo) <b>JoeStone</b>
 </a>
 
 </p>
-
 
 <h3 align="center">Tools & Version Control</h3>
 <p align="center">
