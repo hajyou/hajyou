@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/hajyou" target="_blank">https://github.com/hajyou</a>
 
-- 💬 Ask me about <b>C programming, OCaml, Networks Fundamentals, Linux</b>
+- 💬 Ask me about <b>C programming, Networks Fundamentals, Linux</b>
 
 - 📫 How to reach me <b>youssefhajri83@gmail.com</b>
 
