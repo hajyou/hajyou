@@ -13,10 +13,15 @@
 
 - ⚡ Fun fact **I can play "Happy Birthday" on the guitar — a surprisingly practical skill.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/youssefhajri" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef hajri" height="30" width="40" />
+<h3 align="center">Professional Network 🌐</h3>
+
+<p align="center">
+<a href="https://linkedin.com/in/youssefhajri" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"/>
+</a>
+
+<a href="mailto:youssefhajri83@gmail.com">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="50" height="50"/>
 </a>
 </p>
 
@@ -26,7 +31,7 @@
 <p align="center">
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" width="50" height="50"/>
 </a>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -43,6 +48,7 @@
 
 </p>
 
+
 <h3 align="center">Frontend</h3>
 <p align="center">
 
@@ -56,6 +62,7 @@
 
 </p>
 
+
 <h3 align="center">Backend & Databases</h3>
 <p align="center">
 
@@ -68,6 +75,7 @@
 </a>
 
 </p>
+
 
 <h3 align="center">Systems & Low-Level</h3>
 <p align="center">
@@ -85,6 +93,7 @@
 </a>
 
 </p>
+
 
 <h3 align="center">Tools & Version Control</h3>
 <p align="center">
