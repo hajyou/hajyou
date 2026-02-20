@@ -22,6 +22,11 @@ Developing practical cybersecurity skills through CTF platforms and security cha
 </p>
 
 <p align="center">
+Root-Me Profile — (pseudo) <b>JoeStone</b>
+</p>
+
+
+<p align="center">
 <a href="https://www.root-me.org/JoeStone" target="_blank" style="margin: 0 25px;">
 <img src="https://cdn.simpleicons.org/rootme/00FF00" width="65" height="65"/>
 </a>
@@ -33,10 +38,6 @@ Developing practical cybersecurity skills through CTF platforms and security cha
 <a href="https://linkedin.com/in/youssefhajri" target="_blank" style="margin: 0 25px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"/>
 </a>
-</p>
-
-<p align="center">
-Root-Me Profile — (pseudo) <b>JoeStone</b>
 </p>
 
 <h1 align="center">Languages and Tools 🛠</h1>
