@@ -13,28 +13,30 @@
 
 - ⚡ Fun fact **I can play "Happy Birthday" on the guitar — a surprisingly practical skill.**
 
-<!-- ========================= -->
-<!--        CONNECT            -->
-<!-- ========================= -->
 
 <h3 align="center">Professional Network 🌐</h3>
 
 <p align="center">
-
 <a href="https://linkedin.com/in/youssefhajri" target="_blank" style="margin: 0 25px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"/>
 </a>
-
-<a href="https://www.root-me.org/JoeStone" target="_blank" style="margin: 0 25px;">
-<img src="https://www.root-me.org/IMG/siteon0.png" alt="root-me" width="55" height="55"/>
-</a>
-
 </p>
 
+<h3 align="center">Cybersecurity 🛡️</h3>
 
-<!-- ========================= -->
-<!--     LANGUAGES & TOOLS     -->
-<!-- ========================= -->
+<p align="center">
+Developing practical cybersecurity skills through CTF platforms and security challenges.
+</p>
+
+<p align="center">
+<a href="https://www.root-me.org/JoeStone" target="_blank" style="margin: 0 25px;">
+<img src="https://www.root-me.org/IMG/siteon0.png" alt="root-me" width="70" height="70"/>
+</a>
+</p>
+
+<p align="center">
+Root-Me Profile — (pseudo) <b>JoeStone</b>
+</p>
 
 <h1 align="center">Languages and Tools 🛠</h1>
 
