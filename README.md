@@ -14,13 +14,6 @@
 - ⚡ Fun fact **I can play "Happy Birthday" on the guitar — a surprisingly practical skill.**
 
 
-<h3 align="center">Professional Network 🌐</h3>
-
-<p align="center">
-<a href="https://linkedin.com/in/youssefhajri" target="_blank" style="margin: 0 25px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"/>
-</a>
-</p>
 
 <h3 align="center">Cybersecurity 🛡️</h3>
 
@@ -30,7 +23,15 @@ Developing practical cybersecurity skills through CTF platforms and security cha
 
 <p align="center">
 <a href="https://www.root-me.org/JoeStone" target="_blank" style="margin: 0 25px;">
-<img src="IMG/logo/siteon0.svg?1637496509" alt="root-me" width="70" height="70"/>
+<img src="https://cdn.simpleicons.org/rootme/00FF00" width="65" height="65"/>
+</a>
+</p>
+
+<h3 align="center">Professional Network 🌐</h3>
+
+<p align="center">
+<a href="https://linkedin.com/in/youssefhajri" target="_blank" style="margin: 0 25px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"/>
 </a>
 </p>
 
@@ -65,11 +66,11 @@ Root-Me Profile — (pseudo) <b>JoeStone</b>
 <h3 align="center">Frontend</h3>
 <p align="center">
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin: 0 200px;">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin: 0 20px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
 </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin: 0 200px;">
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin: 0 20px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
 </a>
 
